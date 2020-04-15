@@ -1,5 +1,6 @@
 <p align="center">
-MSConsole
+<h1>MSConsole<h1>
+<br>
 <br>
 A suite of tools that makes your MakeSchool life easier!
 </p>
