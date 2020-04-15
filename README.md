@@ -19,7 +19,7 @@ A suite of tools that makes your MakeSchool life easier!
 
 ## 🚀 Getting Started
 
-### Use the tool!
+### Installation
 
 ```bash
 # tap the repo
