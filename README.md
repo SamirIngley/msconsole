@@ -1,7 +1,6 @@
 <p align="center">
-  <h1>MSConsole</h1>
-</p>
-<p align="center">
+MSConsole
+<br>
 A suite of tools that makes your MakeSchool life easier!
 </p>
 <p align="center">
@@ -16,12 +15,6 @@ A suite of tools that makes your MakeSchool life easier!
   </a>
 </p>
 <br>
-
-## Table of Contents
-
--   [🚀 Getting Started](#🚀-Getting-Started)
--   [License](#License)
--   [Contributors](#Contributors)
 
 ## 🚀 Getting Started
 
